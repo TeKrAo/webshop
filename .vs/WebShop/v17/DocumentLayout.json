@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\pages\\admin\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\admin\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\pages\\admin\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\admin\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\pages\\admin\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\admin\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\pages\\admin\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\admin\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\pages\\admin\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\admin\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\pages\\admin\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\admin\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\migrations\\20240516032140_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\migrations\\20240516032140_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\pages\\admin\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\admin\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|c:\\users\\ratic\\downloads\\webshop-main\\webshop\\webshop\\pages\\admin\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F0BF01B-1417-4ABC-A8DC-D5FD26849F2E}|WebShop\\WebShop.csproj|solutionrelative:webshop\\pages\\admin\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebShop\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebShop\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:05:58.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebShop\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebShop\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T10:05:53.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "WebShop\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "WebShop\\Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:05:49.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebShop\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Error.cshtml",
+              "RelativeToolTip": "WebShop\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T10:05:46.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebShop\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebShop\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T10:05:43.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\appsettings.json",
+              "RelativeDocumentMoniker": "WebShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\appsettings.json",
+              "RelativeToolTip": "WebShop\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T09:49:27.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Program.cs",
+              "RelativeDocumentMoniker": "WebShop\\Program.cs",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Program.cs",
+              "RelativeToolTip": "WebShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:58:18.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebShop\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebShop\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T10:05:37.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Admin\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebShop\\Pages\\Admin\\Products\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Admin\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "WebShop\\Pages\\Admin\\Products\\Index.cshtml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:05:26.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebShop\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "WebShop\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T10:06:01.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "WebShop\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "WebShop\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:06:02.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Admin\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebShop\\Pages\\Admin\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Admin\\Products\\Create.cshtml",
+              "RelativeToolTip": "WebShop\\Pages\\Admin\\Products\\Create.cshtml",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T10:05:11.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebShop\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Models\\Product.cs",
+              "RelativeToolTip": "WebShop\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:04:58.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebShop\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebShop\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:00:09.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240516032140_Firstmigration.cs",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Migrations\\20240516032140_Firstmigration.cs",
+              "RelativeDocumentMoniker": "WebShop\\Migrations\\20240516032140_Firstmigration.cs",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Migrations\\20240516032140_Firstmigration.cs",
+              "RelativeToolTip": "WebShop\\Migrations\\20240516032140_Firstmigration.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:00:08.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Admin\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebShop\\Pages\\Admin\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Admin\\Products\\Delete.cshtml",
+              "RelativeToolTip": "WebShop\\Pages\\Admin\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T07:54:51.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "WebShop\\Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "RelativeToolTip": "WebShop\\Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:54:54.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Admin\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebShop\\Pages\\Admin\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Admin\\Products\\Edit.cshtml",
+              "RelativeToolTip": "WebShop\\Pages\\Admin\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T07:16:40.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WebShop\\Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "RelativeToolTip": "WebShop\\Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:42:27.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebShop\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebShop\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:00:05.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebShop\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebShop\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T10:04:31.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Admin\\Products\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WebShop\\Pages\\Admin\\Products\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Admin\\Products\\Create.cshtml.cs",
+              "RelativeToolTip": "WebShop\\Pages\\Admin\\Products\\Create.cshtml.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwFIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:06:50.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Admin\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebShop\\Pages\\Admin\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ratic\\Downloads\\WebShop-main\\WebShop\\WebShop\\Pages\\Admin\\Products\\Index.cshtml",
+              "RelativeToolTip": "WebShop\\Pages\\Admin\\Products\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T07:40:03.675Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
